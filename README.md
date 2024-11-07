@@ -1,8 +1,5 @@
 # Hi I'm Ali!
 ## 21 years old, from the United States
-### [@](https://fontawesome.com/icons/linkedin?f=brands&s=solid) [LinkedIn](https://www.linkedin.com/in/ali-alturfi-448a05253/) | [Email](mailto:alturfiali@gmail.com)
-
-### Get in touch
 <p align="left">
 <a href="https://www.linkedin.com/in/ali-alturfi-448a05253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-alturfi-448a05253/" height="30" width="40" /></a>
 </p>
