@@ -42,7 +42,5 @@ I believe Object-Oriented Programming is the best paradigm for creating structur
 - Mobile and WebApps: Experimenting with cross-platform mobile and web applications using Flutter
 
 **🤝 Let's Connect!**
-
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ali-alturfi-448a05253/) or check out my work on [SpigotMc](https://www.spigotmc.org/resources/authors/vanixmc.837812/).
-
-📧 Email: alturfiali@gmail.com
+- Check out my Minecraft Server-Side Mods [SpigotMc](https://www.spigotmc.org/resources/authors/vanixmc.837812/) 
+- Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ali-alturfi-448a05253/) or by [Email](mailto:alturfiali@gmail.com)
