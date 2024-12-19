@@ -7,11 +7,11 @@
 
 **About Me**
 
-👨‍💻 I'm a Software Engineer based in the United States, with a strong passion for building efficient systems and crafting engaging user experiences. My expertise lies in:
+I enjoy creating new content and experiences, whether it’s through backend systems, immersive gameplay, or solving complex problems. My journey as a developer is driven by a passion for building efficient, dependable solutions that make a real impact.
 
-Backend Development: Designing scalable, secure, and performant systems.
-Game Development: Creating immersive gameplay mechanics, crafting unique stories, and designing fun player interactions.
-I firmly believe that Object-Oriented Programming (OOP) is the cornerstone of maintainable and reusable code, and Java is unparalleled in delivering its true potential.
+Most of my backend experience is in Java, where I’ve worked with Spring Boot, REST APIs, and databases like MySQL and MongoDB. I’m especially passionate about game development, using it as a creative outlet to craft entirely new experiences for players—unique worlds brought to life through engaging storylines and interactive designs. I also work on server-side mods for Minecraft, which I use as my creative outlet and to bring my ideas to thousands of people around the world.
+
+I believe Object-Oriented Programming is the best paradigm for creating structured and scalable software, and Java embodies its principles better than any other language. To me, programming is a perfect balance of logic and creativity, and I aim to bring both into every project I work on.
 
 ---
 **🔧 My Toolkit**
